@@ -1,0 +1,16 @@
+#html{
+    text-align: center;
+}
+.html_image{
+    width: 350px;
+}
+a{
+    color: orangered;
+    font-weight: bold;
+    font-family:'Gill Sans MT';
+}
+.menu{
+    text-decoration: none;
+    color: black;
+    font-family:'Gill Sans MT';
+}

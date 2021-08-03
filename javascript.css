@@ -1,0 +1,13 @@
+#js{
+    text-align: center;
+}
+a{
+    color: rgb(255, 196, 0);
+    font-weight: bolder;
+    font-family:'Gill Sans MT';
+}
+.menu{
+    text-decoration: none;
+    color: black;
+    font-family:'Gill Sans MT';
+}

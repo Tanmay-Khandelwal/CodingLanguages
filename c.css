@@ -1,0 +1,19 @@
+
+a{
+    color: blue;
+    font-weight: bold;
+    font-family:'Gill Sans MT';
+}
+.c_image{
+    width: 550px;
+}
+
+li{
+    font-weight: bolder;
+    color: rgb(111, 0, 175);
+}
+.menu{
+    text-decoration: none;
+    color: black;
+    font-family:'Gill Sans MT';
+}

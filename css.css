@@ -1,0 +1,17 @@
+#css{
+    text-align: center;
+}
+.css_image{
+    width: 350px;
+    height: 350px;
+}
+a{
+    color: #0170ba;
+    font-weight: bold;
+    font-family:'Gill Sans MT';
+}
+.menu{
+    text-decoration: none;
+    color: black;
+    font-family:'Gill Sans MT';
+}

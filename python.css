@@ -1,0 +1,13 @@
+#python{
+    text-align: center;
+}
+a{
+    color: blue;
+    font-weight: bold;
+    font-family:'Gill Sans MT';
+}
+.menu{
+    text-decoration: none;
+    color: black;
+    font-family:'Gill Sans MT';
+}

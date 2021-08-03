@@ -1,0 +1,16 @@
+#java{
+    text-align: center;
+}
+a{
+    color: red;
+    font-weight: bold;
+    font-family:'Gill Sans MT';
+}
+.java_image{
+    width: 450px;
+}
+.menu{
+    text-decoration: none;
+    color: black;
+    font-family:'Gill Sans MT';
+}
